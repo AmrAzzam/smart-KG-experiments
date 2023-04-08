@@ -1,0 +1,9 @@
+queryID,queryName,queryAnlysisTimePerQuery,estimatedNumberOfDownloadedPartitionsPerQuery,actualNumberOfDownloadedPartitionsPerQuery,estimatedTotalSizeOfDownloadedPartitionsPerQuery,actualTotalSizeOfDownloadedPartitionsPerQuery,totalDownloadTimeOfPartitionsPerQuery,recieveFirstAnswerTimePerQuery,totalExecTimePerQuery,resultCountPerQuery
+1,C1_3.txt,2900,3,3,674,710962749,0,10920,514918,1424
+2,C1_2.txt,45,3,3,674,710962749,0,1311,485869,1424
+3,C1_1.txt,42,3,3,674,710962749,0,874,483618,1424
+""
+""
+""
+estimatedNumberOfDownloadedPartitionsPerWorkload,actualNumberOfDownloadedPartitionsPerWorkload,estimatedTotalSizeOfDownloadedPartitionsPerWorkload,actualTotalSizeOfDownloadedPartitionsPerWorkload,totalDownloadTimeOfPartitionsPerWorkLoad,totalExecTimePerWorkLoad
+9,9,2022,2132888247,483576,1490027

@@ -1,0 +1,780 @@
+query_1012.rq
+
+real	5m0.014s
+user	1m14.745s
+sys	0m3.440s
+query_10134.rq
+
+real	5m0.008s
+user	1m6.681s
+sys	0m2.999s
+query_2140.rq
+
+real	5m0.014s
+user	1m7.722s
+sys	0m3.205s
+query_2141.rq
+
+real	5m0.008s
+user	1m7.961s
+sys	0m3.215s
+query_2143.rq
+
+real	5m0.011s
+user	1m5.205s
+sys	0m2.931s
+query_2144.rq
+
+real	0m25.206s
+user	0m7.634s
+sys	0m0.296s
+query_2145.rq
+
+real	5m0.009s
+user	1m12.869s
+sys	0m3.295s
+query_2147.rq
+
+real	0m7.354s
+user	0m2.932s
+sys	0m0.145s
+query_2149.rq
+
+real	1m1.189s
+user	0m15.416s
+sys	0m0.606s
+query_214.rq
+
+real	1m50.682s
+user	0m24.423s
+sys	0m0.955s
+query_2150.rq
+
+real	0m39.454s
+user	0m11.913s
+sys	0m0.502s
+query_2151.rq
+
+real	4m55.327s
+user	1m6.669s
+sys	0m3.184s
+query_2152.rq
+
+real	0m4.901s
+user	0m2.032s
+sys	0m0.094s
+query_2153.rq
+
+real	0m37.083s
+user	0m11.424s
+sys	0m0.507s
+query_2154.rq
+
+real	1m21.587s
+user	0m24.286s
+sys	0m0.973s
+query_2155.rq
+
+real	2m9.302s
+user	0m37.767s
+sys	0m1.724s
+query_2157.rq
+
+real	0m24.017s
+user	0m8.121s
+sys	0m0.401s
+query_2159.rq
+
+real	0m0.259s
+user	0m0.170s
+sys	0m0.015s
+query_215.rq
+
+real	0m0.304s
+user	0m0.184s
+sys	0m0.021s
+query_2160.rq
+
+real	5m0.009s
+user	1m14.878s
+sys	0m3.503s
+query_2161.rq
+
+real	0m1.315s
+user	0m0.769s
+sys	0m0.043s
+query_2163.rq
+
+real	3m58.419s
+user	1m6.952s
+sys	0m2.803s
+query_2165.rq
+
+real	5m0.011s
+user	1m2.341s
+sys	0m2.839s
+query_2168.rq
+
+real	5m0.009s
+user	1m11.370s
+sys	0m3.068s
+query_2169.rq
+
+real	0m0.398s
+user	0m0.201s
+sys	0m0.033s
+query_216.rq
+
+real	0m0.370s
+user	0m0.204s
+sys	0m0.023s
+query_2170.rq
+
+real	0m16.395s
+user	0m5.425s
+sys	0m0.235s
+query_2171.rq
+
+real	0m0.449s
+user	0m0.282s
+sys	0m0.015s
+query_2172.rq
+
+real	0m0.399s
+user	0m0.190s
+sys	0m0.021s
+query_2173.rq
+
+real	2m43.817s
+user	0m39.879s
+sys	0m1.746s
+query_2175.rq
+
+real	5m0.009s
+user	1m13.985s
+sys	0m3.431s
+query_2176.rq
+
+real	5m0.007s
+user	1m29.773s
+sys	0m3.705s
+query_2177.rq
+
+real	5m0.008s
+user	1m38.853s
+sys	0m4.674s
+query_2178.rq
+
+real	0m1.321s
+user	0m0.303s
+sys	0m0.020s
+query_2179.rq
+
+real	0m0.336s
+user	0m0.193s
+sys	0m0.016s
+query_2180.rq
+
+real	5m0.011s
+user	1m12.700s
+sys	0m3.310s
+query_2181.rq
+
+real	5m0.012s
+user	1m16.011s
+sys	0m3.412s
+query_2182.rq
+
+real	5m0.007s
+user	1m8.499s
+sys	0m3.023s
+query_2183.rq
+
+real	0m0.223s
+user	0m0.171s
+sys	0m0.015s
+query_2184.rq
+
+real	0m2.146s
+user	0m0.962s
+sys	0m0.064s
+query_2188.rq
+
+real	0m16.877s
+user	0m5.821s
+sys	0m0.272s
+query_2189.rq
+
+real	0m20.892s
+user	0m6.838s
+sys	0m0.274s
+query_218.rq
+
+real	5m0.013s
+user	1m13.824s
+sys	0m3.654s
+query_2192.rq
+
+real	0m1.971s
+user	0m1.036s
+sys	0m0.059s
+query_2193.rq
+
+real	0m13.252s
+user	0m4.674s
+sys	0m0.211s
+query_2194.rq
+
+real	0m5.179s
+user	0m2.243s
+sys	0m0.106s
+query_2196.rq
+
+real	0m6.273s
+user	0m2.370s
+sys	0m0.111s
+query_2197.rq
+
+real	0m0.304s
+user	0m0.183s
+sys	0m0.024s
+query_2198.rq
+
+real	5m0.013s
+user	1m8.357s
+sys	0m3.483s
+query_219.rq
+
+real	4m36.281s
+user	1m19.833s
+sys	0m3.510s
+query_21.rq
+
+real	5m0.008s
+user	1m7.876s
+sys	0m2.995s
+query_2200.rq
+
+real	5m0.009s
+user	1m3.726s
+sys	0m3.110s
+query_2201.rq
+
+real	2m5.706s
+user	0m33.198s
+sys	0m1.449s
+query_2202.rq
+
+real	0m3.426s
+user	0m1.585s
+sys	0m0.073s
+query_2203.rq
+
+real	5m0.012s
+user	1m8.829s
+sys	0m3.105s
+query_2204.rq
+
+real	0m13.476s
+user	0m4.675s
+sys	0m0.195s
+query_2205.rq
+
+real	0m0.285s
+user	0m0.155s
+sys	0m0.025s
+query_2207.rq
+
+real	5m0.008s
+user	1m42.406s
+sys	0m4.766s
+query_2208.rq
+
+real	5m0.008s
+user	1m5.838s
+sys	0m2.921s
+query_2209.rq
+
+real	3m27.649s
+user	1m12.835s
+sys	0m3.034s
+query_2210.rq
+
+real	5m0.013s
+user	1m14.868s
+sys	0m3.521s
+query_2212.rq
+
+real	5m0.012s
+user	1m19.871s
+sys	0m3.550s
+query_2213.rq
+
+real	0m4.725s
+user	0m1.870s
+sys	0m0.108s
+query_2215.rq
+
+real	5m0.008s
+user	1m20.080s
+sys	0m3.769s
+query_2218.rq
+
+real	0m1.517s
+user	0m0.854s
+sys	0m0.042s
+query_2219.rq
+
+real	1m2.275s
+user	0m16.805s
+sys	0m0.700s
+query_2220.rq
+
+real	0m1.650s
+user	0m0.903s
+sys	0m0.051s
+query_2221.rq
+
+real	5m0.011s
+user	1m29.689s
+sys	0m3.980s
+query_2222.rq
+
+real	5m0.014s
+user	1m12.523s
+sys	0m3.559s
+query_2223.rq
+
+real	0m2.380s
+user	0m0.898s
+sys	0m0.056s
+query_2224.rq
+
+real	5m0.009s
+user	1m13.464s
+sys	0m3.342s
+query_2225.rq
+
+real	5m0.011s
+user	1m10.208s
+sys	0m3.241s
+query_2226.rq
+
+real	0m2.795s
+user	0m1.163s
+sys	0m0.071s
+query_2228.rq
+
+real	0m1.904s
+user	0m0.835s
+sys	0m0.045s
+query_2229.rq
+
+real	4m36.610s
+user	1m24.134s
+sys	0m3.774s
+query_2230.rq
+
+real	0m0.182s
+user	0m0.154s
+sys	0m0.014s
+query_2231.rq
+
+real	0m0.249s
+user	0m0.158s
+sys	0m0.019s
+query_2233.rq
+
+real	5m0.014s
+user	1m5.393s
+sys	0m2.927s
+query_2234.rq
+
+real	5m0.008s
+user	1m11.998s
+sys	0m3.463s
+query_2235.rq
+
+real	5m0.011s
+user	1m11.460s
+sys	0m3.354s
+query_2236.rq
+
+real	5m0.009s
+user	1m15.684s
+sys	0m3.511s
+query_2237.rq
+
+real	0m6.136s
+user	0m2.917s
+sys	0m0.144s
+query_2238.rq
+
+real	5m0.011s
+user	1m21.202s
+sys	0m3.565s
+query_2239.rq
+
+real	4m23.326s
+user	1m17.186s
+sys	0m3.519s
+query_2240.rq
+
+real	5m0.013s
+user	1m15.005s
+sys	0m3.364s
+query_2241.rq
+
+real	0m54.763s
+user	0m18.842s
+sys	0m0.852s
+query_2242.rq
+
+real	2m14.234s
+user	0m36.393s
+sys	0m1.758s
+query_2244.rq
+
+real	5m0.014s
+user	1m6.820s
+sys	0m3.259s
+query_2245.rq
+
+real	0m52.687s
+user	0m15.100s
+sys	0m0.607s
+query_2246.rq
+
+real	0m49.970s
+user	0m15.614s
+sys	0m0.653s
+query_2247.rq
+
+real	2m3.676s
+user	0m28.706s
+sys	0m1.363s
+query_2248.rq
+
+real	0m0.260s
+user	0m0.157s
+sys	0m0.022s
+query_2249.rq
+
+real	2m58.686s
+user	0m45.587s
+sys	0m2.089s
+query_224.rq
+
+real	1m43.756s
+user	0m28.781s
+sys	0m1.152s
+query_2250.rq
+
+real	5m0.013s
+user	1m8.938s
+sys	0m3.035s
+query_2251.rq
+
+real	0m0.230s
+user	0m0.159s
+sys	0m0.017s
+query_2252.rq
+
+real	5m0.011s
+user	1m17.489s
+sys	0m3.575s
+query_2253.rq
+
+real	1m21.012s
+user	0m22.211s
+sys	0m0.978s
+query_2254.rq
+
+real	0m11.969s
+user	0m4.732s
+sys	0m0.205s
+query_2256.rq
+
+real	4m50.887s
+user	1m24.206s
+sys	0m3.685s
+query_2257.rq
+
+real	2m41.626s
+user	0m37.635s
+sys	0m1.618s
+query_2258.rq
+
+real	4m1.021s
+user	1m10.120s
+sys	0m3.020s
+query_2259.rq
+
+real	2m16.268s
+user	0m30.839s
+sys	0m1.300s
+query_2263.rq
+
+real	0m0.299s
+user	0m0.192s
+sys	0m0.018s
+query_2264.rq
+
+real	0m11.882s
+user	0m4.549s
+sys	0m0.216s
+query_2265.rq
+
+real	3m53.536s
+user	1m13.663s
+sys	0m3.009s
+query_2266.rq
+
+real	0m0.231s
+user	0m0.157s
+sys	0m0.015s
+query_2267.rq
+
+real	0m0.316s
+user	0m0.193s
+sys	0m0.016s
+query_2268.rq
+
+real	5m0.013s
+user	1m22.234s
+sys	0m3.511s
+query_2269.rq
+
+real	1m38.584s
+user	0m31.579s
+sys	0m1.267s
+query_226.rq
+
+real	5m0.011s
+user	1m27.424s
+sys	0m3.829s
+query_2271.rq
+
+real	1m32.369s
+user	0m25.332s
+sys	0m1.126s
+query_2272.rq
+
+real	5m0.008s
+user	1m41.766s
+sys	0m4.196s
+query_2273.rq
+
+real	5m0.010s
+user	1m24.967s
+sys	0m3.461s
+query_2274.rq
+
+real	5m0.012s
+user	1m11.202s
+sys	0m3.276s
+query_2275.rq
+
+real	3m49.265s
+user	1m18.348s
+sys	0m3.237s
+query_2278.rq
+
+real	0m13.905s
+user	0m4.811s
+sys	0m0.195s
+query_2279.rq
+
+real	4m12.146s
+user	1m13.038s
+sys	0m3.312s
+query_227.rq
+
+real	3m10.392s
+user	0m53.155s
+sys	0m2.348s
+query_2280.rq
+
+real	4m18.885s
+user	1m20.066s
+sys	0m3.517s
+query_2281.rq
+
+real	2m49.320s
+user	0m57.848s
+sys	0m2.597s
+query_2282.rq
+
+real	5m0.011s
+user	1m12.360s
+sys	0m3.237s
+query_2283.rq
+
+real	2m12.447s
+user	0m33.125s
+sys	0m1.469s
+query_2284.rq
+
+real	0m0.537s
+user	0m0.288s
+sys	0m0.013s
+query_2286.rq
+
+real	1m20.581s
+user	0m28.078s
+sys	0m1.204s
+query_2287.rq
+
+real	5m0.009s
+user	1m16.961s
+sys	0m3.375s
+query_2288.rq
+
+real	2m44.502s
+user	0m45.323s
+sys	0m2.017s
+query_2289.rq
+
+real	5m0.011s
+user	1m35.649s
+sys	0m4.177s
+query_228.rq
+
+real	2m53.203s
+user	1m6.608s
+sys	0m2.710s
+query_2290.rq
+
+real	0m10.652s
+user	0m4.029s
+sys	0m0.175s
+query_2293.rq
+
+real	0m0.255s
+user	0m0.170s
+sys	0m0.020s
+query_2295.rq
+
+real	0m0.193s
+user	0m0.165s
+sys	0m0.017s
+query_2296.rq
+
+real	2m3.478s
+user	0m36.804s
+sys	0m1.589s
+query_2297.rq
+
+real	0m2.228s
+user	0m1.054s
+sys	0m0.068s
+query_2298.rq
+
+real	4m19.263s
+user	1m18.025s
+sys	0m3.298s
+query_2299.rq
+
+real	0m0.235s
+user	0m0.173s
+sys	0m0.017s
+query_229.rq
+
+real	0m0.173s
+user	0m0.145s
+sys	0m0.018s
+query_2300.rq
+
+real	0m0.271s
+user	0m0.170s
+sys	0m0.016s
+query_2301.rq
+
+real	0m11.974s
+user	0m4.580s
+sys	0m0.179s
+query_2302.rq
+
+real	1m4.642s
+user	0m19.532s
+sys	0m0.812s
+query_2303.rq
+
+real	5m0.008s
+user	1m42.157s
+sys	0m4.619s
+query_2304.rq
+
+real	0m16.329s
+user	0m6.828s
+sys	0m0.280s
+query_2305.rq
+
+real	0m0.347s
+user	0m0.213s
+sys	0m0.025s
+query_2306.rq
+
+real	1m30.097s
+user	0m34.571s
+sys	0m1.639s
+query_2307.rq
+
+real	0m0.268s
+user	0m0.176s
+sys	0m0.013s
+query_2308.rq
+
+real	2m17.757s
+user	0m43.312s
+sys	0m1.908s
+query_230.rq
+
+real	4m49.907s
+user	1m53.401s
+sys	0m5.335s
+query_2310.rq
+
+real	1m38.729s
+user	0m43.873s
+sys	0m1.880s
+query_2311.rq
+
+real	0m0.248s
+user	0m0.165s
+sys	0m0.019s
+query_2312.rq
+
+real	5m0.012s
+user	2m3.014s
+sys	0m5.616s
+query_2313.rq
+
+real	1m6.459s
+user	0m30.654s
+sys	0m1.370s
+query_3396.rq
+
+real	0m0.263s
+user	0m0.212s
+sys	0m0.025s
+query_4215.rq
+
+real	0m0.221s
+user	0m0.189s
+sys	0m0.019s
+query_5944.rq
+
+real	0m0.204s
+user	0m0.183s
+sys	0m0.012s
+query_6769.rq
+
+real	0m0.276s
+user	0m0.207s
+sys	0m0.020s
+query_9597.rq
+
+real	0m0.242s
+user	0m0.190s
+sys	0m0.018s

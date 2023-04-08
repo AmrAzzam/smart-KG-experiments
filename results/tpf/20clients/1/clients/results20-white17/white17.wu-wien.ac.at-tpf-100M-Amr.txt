@@ -1,0 +1,260 @@
+C1.1.txt
+
+real	4m23.549s
+user	2m4.816s
+sys	0m4.848s
+F1.1.txt
+
+real	0m8.493s
+user	0m4.811s
+sys	0m0.203s
+F1.2.txt
+
+real	0m8.101s
+user	0m4.666s
+sys	0m0.175s
+F1.3.txt
+
+real	0m9.142s
+user	0m5.105s
+sys	0m0.178s
+F2.1.txt
+
+real	0m24.176s
+user	0m12.573s
+sys	0m0.616s
+F2.2.txt
+
+real	0m6.441s
+user	0m3.878s
+sys	0m0.198s
+F2.3.txt
+
+real	0m0.670s
+user	0m0.534s
+sys	0m0.032s
+F3.1.txt
+
+real	0m3.307s
+user	0m2.036s
+sys	0m0.119s
+F3.2.txt
+
+real	0m0.998s
+user	0m0.748s
+sys	0m0.042s
+F3.3.txt
+
+real	0m0.658s
+user	0m0.492s
+sys	0m0.034s
+F4.1.txt
+
+real	0m24.582s
+user	0m13.397s
+sys	0m0.552s
+F4.2.txt
+
+real	0m25.590s
+user	0m13.199s
+sys	0m0.528s
+F4.3.txt
+
+real	0m25.009s
+user	0m13.533s
+sys	0m0.556s
+F5.1.txt
+
+real	0m0.989s
+user	0m0.752s
+sys	0m0.048s
+F5.2.txt
+
+real	0m0.628s
+user	0m0.476s
+sys	0m0.028s
+F5.3.txt
+
+real	0m0.688s
+user	0m0.542s
+sys	0m0.031s
+L1.1.txt
+
+real	0m0.316s
+user	0m0.264s
+sys	0m0.021s
+L1.2.txt
+
+real	0m0.330s
+user	0m0.302s
+sys	0m0.025s
+L1.3.txt
+
+real	0m0.309s
+user	0m0.261s
+sys	0m0.023s
+L2.1.txt
+
+real	1m6.458s
+user	0m31.260s
+sys	0m1.667s
+L2.2.txt
+
+real	0m5.408s
+user	0m3.014s
+sys	0m0.128s
+L2.3.txt
+
+real	1m8.234s
+user	0m33.715s
+sys	0m1.770s
+L3.1.txt
+
+real	0m0.236s
+user	0m0.222s
+sys	0m0.015s
+L3.2.txt
+
+real	0m0.226s
+user	0m0.197s
+sys	0m0.019s
+L3.3.txt
+
+real	0m0.232s
+user	0m0.230s
+sys	0m0.018s
+L4.1.txt
+
+real	0m9.820s
+user	0m5.108s
+sys	0m0.245s
+L4.2.txt
+
+real	0m10.679s
+user	0m5.584s
+sys	0m0.270s
+L4.3.txt
+
+real	0m10.068s
+user	0m5.573s
+sys	0m0.252s
+L5.1.txt
+
+real	0m47.667s
+user	0m22.706s
+sys	0m1.130s
+L5.2.txt
+
+real	0m10.792s
+user	0m5.574s
+sys	0m0.283s
+L5.3.txt
+
+real	0m47.270s
+user	0m23.861s
+sys	0m1.154s
+S1.1.txt
+
+real	0m0.411s
+user	0m0.357s
+sys	0m0.027s
+S1.2.txt
+
+real	0m0.787s
+user	0m0.593s
+sys	0m0.038s
+S1.3.txt
+
+real	0m0.608s
+user	0m0.503s
+sys	0m0.029s
+S2.1.txt
+
+real	0m9.308s
+user	0m5.380s
+sys	0m0.229s
+S2.2.txt
+
+real	0m8.470s
+user	0m4.491s
+sys	0m0.240s
+S2.3.txt
+
+real	0m5.854s
+user	0m3.217s
+sys	0m0.129s
+S3.1.txt
+
+real	0m27.330s
+user	0m14.609s
+sys	0m0.727s
+S3.2.txt
+
+real	0m27.803s
+user	0m14.515s
+sys	0m0.700s
+S3.3.txt
+
+real	0m33.896s
+user	0m14.074s
+sys	0m0.724s
+S4.1.txt
+
+real	0m30.801s
+user	0m13.594s
+sys	0m0.595s
+S4.2.txt
+
+real	0m22.094s
+user	0m12.004s
+sys	0m0.515s
+S4.3.txt
+
+real	0m17.851s
+user	0m9.662s
+sys	0m0.442s
+S5.1.txt
+
+real	0m28.834s
+user	0m14.833s
+sys	0m0.682s
+S5.2.txt
+
+real	0m27.897s
+user	0m14.295s
+sys	0m0.747s
+S5.3.txt
+
+real	0m28.084s
+user	0m14.634s
+sys	0m0.743s
+S6.1.txt
+
+real	0m9.722s
+user	0m5.156s
+sys	0m0.216s
+S6.2.txt
+
+real	0m8.915s
+user	0m4.906s
+sys	0m0.194s
+S6.3.txt
+
+real	0m8.329s
+user	0m4.302s
+sys	0m0.194s
+S7.1.txt
+
+real	0m0.198s
+user	0m0.169s
+sys	0m0.013s
+S7.2.txt
+
+real	0m0.197s
+user	0m0.169s
+sys	0m0.018s
+S7.3.txt
+
+real	0m0.209s
+user	0m0.167s
+sys	0m0.020s

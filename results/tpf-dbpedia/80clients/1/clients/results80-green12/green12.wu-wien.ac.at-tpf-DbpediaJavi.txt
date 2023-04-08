@@ -1,0 +1,60 @@
+Q10.txt
+
+real	30m0.021s
+user	6m46.078s
+sys	0m16.173s
+Q11.txt
+
+real	30m0.010s
+user	7m20.063s
+sys	0m21.575s
+Q12.txt
+
+real	30m0.012s
+user	6m49.104s
+sys	0m19.514s
+Q13.txt
+
+real	30m0.010s
+user	7m21.237s
+sys	0m21.148s
+Q14.txt
+
+real	26m6.743s
+user	4m46.065s
+sys	0m12.463s
+Q2.txt
+
+real	30m0.025s
+user	10m8.703s
+sys	0m6.911s
+Q3.txt
+
+real	0m0.258s
+user	0m0.171s
+sys	0m0.017s
+Q4.txt
+
+real	30m0.023s
+user	6m52.087s
+sys	0m18.250s
+Q5.txt
+
+real	0m42.556s
+user	0m15.738s
+sys	0m0.598s
+Q7.txt
+
+real	30m0.021s
+user	6m19.267s
+sys	0m18.052s
+Q8.txt
+
+real	30m0.022s
+user	6m24.993s
+sys	0m18.581s
+Q9.txt
+
+real	30m0.008s
+user	6m42.726s
+sys	0m18.774s
